@@ -1,6 +1,6 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+<a href="https://ichoake.github.io"><img src="/src/profile_banner.gif"></a>
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
